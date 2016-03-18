@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    copy-paste (0.1.0)
+      color_puts (~> 0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    color_puts (0.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.11)
+  copy-paste!
+
+BUNDLED WITH
+   1.11.2
